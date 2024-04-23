@@ -1,8 +1,8 @@
 ## Orchestrating Mixed Precision Models on a Shared Precision-Scalable NPU
 
-the 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems
-
-_LCTES'24, June 24-28, Copenhagen, Denmark_
+> the 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems
+> 
+> _LCTES'24, June 24-28, Copenhagen, Denmark_
 
 ### Abstract
 #### Under-utilization of precision-scalable NPU
